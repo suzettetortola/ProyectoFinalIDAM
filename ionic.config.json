@@ -1,0 +1,7 @@
+{
+  "name": "proyectoFinalIonic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
